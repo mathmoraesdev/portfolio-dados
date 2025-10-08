@@ -22,7 +22,7 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 
 ### Relação entre RAM e Preço
 
-![ramepreco](images/__results___22_0.png)
+![ramepreco](images/colunaram1.png)
 
 ### Preços Médios por País
 
