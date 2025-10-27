@@ -29,7 +29,7 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ![precoporpais](images/__results___25_0.png)
 
 ### Correlação entre Features
-![Análise de Correlação](images/1_2.png)
+![Análise de Correlação](images/fim.png)
 
 ### Principais insights:
 
