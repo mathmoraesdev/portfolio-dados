@@ -29,7 +29,7 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ![precoporpais](images/__results___25_0.png)
 
 ### Correlação entre Features
-![Análise de Correlação](images/fim.png)
+![analisecorrelacao](images/fim.png)
 
 ### Principais insights:
 
@@ -44,7 +44,7 @@ Bateria vs Preço: Correlação negativa (-0.035) - surpreendentemente, bateria 
 ## 🤖 Modelagem Preditiva
 
 ### Resultados dos Modelos
-![Comparação de Modelos](images/__results___31_0.png)
+![comparacaodemodelos](images/__results___31_0.png)
 
 | Modelo | R² | MSE |
 |--------|----|-----|
