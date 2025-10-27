@@ -10,7 +10,7 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ![Verificação de nulo](images/verificacaodenulo.png)
 
 ### Normalização da Coluna RAM
-![colunaram](images/colunaram2.png)
+![colunaram](images/1 (4).png)
 
 ### Função de conversões para Dólar
 ![conversoes](images/imagemm.png)
