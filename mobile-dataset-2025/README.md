@@ -7,13 +7,13 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ## 🛠️ Pré-processamento e Manipulação dos Dados
 
 ### Verificando valores nulos
-![Verificação de nulo](images/verificacaodenulo.png)
+![Verificação de nulo](mobile-dataset-2025/images/verificacaodenulo.png)
 
 ### Normalização da Coluna RAM
-![colunaram](images/1_4.png)
+![colunaram](mobile-dataset-2025/images/1_4.png)
 
 ### Função de conversões para Dólar
-![conversoes](images/imagemm.png)
+![conversoes](mobile-dataset-2025/images/imagemm.png)
 
 *taxas de câmbio retiradas em 17/03/25*
 
@@ -22,14 +22,14 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 
 ### Relação entre RAM e Preço
 
-![ramepreco](images/colunaram1.png)
+![ramepreco](mobile-dataset-2025/images/colunaram1.png)
 
 ### Preços Médios por País
 
-![precoporpais](images/__results___25_0.png)
+![precoporpais](mobile-dataset-2025/images/__results___25_0.png)
 
 ### Correlação entre Features
-![Análise de Correlação](images/fim.png)
+![Análise de Correlação](mobile-dataset-2025/images/fim.png)
 
 ### Principais insights:
 
@@ -44,7 +44,7 @@ Bateria vs Preço: Correlação negativa (-0.035) - surpreendentemente, bateria 
 ## 🤖 Modelagem Preditiva
 
 ### Resultados dos Modelos
-![Comparação de Modelos](images/__results___31_0.png)
+![Comparação de Modelos](mobile-dataset-2025/images/__results___31_0.png)
 
 | Modelo | R² | MSE |
 |--------|----|-----|
