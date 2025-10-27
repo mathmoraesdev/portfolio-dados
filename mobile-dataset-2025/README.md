@@ -10,10 +10,10 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ![verificanulo](images/verificanulopng.png)
 
 ### Normalização da Coluna RAM
-![colunaram](images/1_4.png)
+![colunaram](images/ramtramento)
 
 ### Função de conversões para Dólar
-![conversoes](images/imagemm.png)
+![conversoes](images/functaxes.png)
 
 *taxas de câmbio retiradas em 17/03/25*
 
@@ -22,11 +22,11 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 
 ### Relação entre RAM e Preço
 
-![ramepreco](images/colunaram1.png)
+![ramepreco](images/corrramprice.png)
 
 ### Preços Médios por País
 
-![precoporpais](images/__results___25_0.png)
+![precoporpais](images/avgpricelaunch.png)
 
 ### Correlação entre Features
 ![analisecorrelacao](images/fim.png)
