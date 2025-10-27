@@ -13,7 +13,7 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ![colunaram](images/colunaram2.png)
 
 ### Função de conversões para Dólar
-![conversoes](images/conversoes.png)
+![conversoes](images/imagemm.png)
 
 *taxas de câmbio retiradas em 17/03/25*
 
