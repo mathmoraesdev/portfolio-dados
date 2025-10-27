@@ -10,7 +10,7 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ![Verificação de nulo](images/verificacaodenulo.png)
 
 ### Normalização da Coluna RAM
-![colunaram](images/1 (4).png)
+![colunaram](images/1_4.png)
 
 ### Função de conversões para Dólar
 ![conversoes](images/imagemm.png)
@@ -29,7 +29,7 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ![precoporpais](images/__results___25_0.png)
 
 ### Correlação entre Features
-![Análise de Correlação](images/1 (2).png)
+![Análise de Correlação](images/1_2.png)
 
 ### Principais insights:
 
