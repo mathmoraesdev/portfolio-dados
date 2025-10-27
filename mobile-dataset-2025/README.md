@@ -7,7 +7,7 @@ Analisar fatores que influenciam o preço de dispositivos móveis e desenvolver 
 ## 🛠️ Pré-processamento e Manipulação dos Dados
 
 ### Verificando valores nulos
-![Verificanulo](images/verificanulopng.png)
+![verificanulo](images/verificanulopng.png)
 
 ### Normalização da Coluna RAM
 ![colunaram](images/1_4.png)
