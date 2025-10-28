@@ -58,3 +58,6 @@ Bateria vs Preço: Correlação negativa (-0.035) - surpreendentemente, bateria 
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
+
+# Para mais detalhes
+### Link do Kaggle: https://www.kaggle.com/code/matheuspaulomoooooo/mobile-datasets-analysis-2025
